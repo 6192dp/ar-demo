@@ -200,6 +200,20 @@
       "uri": "scene.bin"
     }
   ],
+  "images": [
+    {
+      "uri": "textures/Material_21_baseColor.png"
+    },
+    {
+      "uri": "textures/Material_21_normal.png"
+    },
+    {
+      "uri": "textures/Material_22_baseColor.png"
+    },
+    {
+      "uri": "textures/Material_22_normal.png"
+    }
+  ],
   "materials": [
     {
       "doubleSided": true,
@@ -413,6 +427,24 @@
     {
       "name": "OSG_Scene",
       "nodes": [0]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
     }
   ]
 }
